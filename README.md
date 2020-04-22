@@ -1,0 +1,2 @@
+# Stenographie
+Stenographie est une application de stéganographie. Elle permet de dissimuler des données dans divers formats de fichier, de type image, son ou vidéo. Les données cachées peuvent ainsi être transmises par un canal non sécurisé sans être découverte, puis le receveur pourra les extraire. L'application se compose d'une interface graphique et d'une interface en ligne de commande, ainsi que d'une bibliothèque partagée intégrable dans d'autres projets de développement.
